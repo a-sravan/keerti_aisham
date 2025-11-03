@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', async function () {
 
     // ---------- Gemini call ----------
     // const API_KEY = 'AIzaSyCmuvMrKoBcPL-rnqg-t-Tfw39MMbpxOYw';
-    const API_KEY = 'AIzaSyC0flygDJAfnIEzmszZQ4BBAgeK5qHZlWk';  
+    const API_KEY = 'AIzaSyAHvqR-komeOKI_YPbN93fkRCDHV3dX2VE';  
     if (!API_KEY || API_KEY.includes('REPLACE') || API_KEY.includes('YOUR')) {
       // Remove typing indicator and show error
       typingIndicator.remove();
